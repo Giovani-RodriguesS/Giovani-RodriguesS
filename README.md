@@ -4,29 +4,14 @@
 
 🌱 **Estagiário em Infraestrutura, tenho buscado me aperfeiçoar em *DevOps*. Para isso, algumas ferramentas que estudei e que tenho estudado são:**
 
-
 <p align="center">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,java,grafana,gcp,bash,dotnet,prometheus&perline=3" />
 </p>
 
-
-## Projetos
-
-### [Nome do Projeto 1]
-- **Descrição**: [Breve descrição do projeto].
-- **Tecnologias**: [Liste as tecnologias utilizadas].
-- **Link**: [URL do projeto ou repositório].
-
-### [Nome do Projeto 2]
-- **Descrição**: [Breve descrição do projeto].
-- **Tecnologias**: [Liste as tecnologias utilizadas].
-- **Link**: [URL do projeto ou repositório].
-
 ## Habilidades
 
-- **Ferramentas de CI/CD**:
 - **Contêineres**: Docker e Kubernetes;
-- **Cloud Providers**: Google Cloud Plataform;
+- **Cloud**: Google Cloud Plataform;
 - **Sistemas de Monitoramento**: Prometheus, Grafana;
 - **Linguagens de Programação**: Python, Bash, Java, C#
 
